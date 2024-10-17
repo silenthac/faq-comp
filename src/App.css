@@ -36,3 +36,41 @@
     transform: rotate(360deg);
   }
 }
+
+.faq-box{
+  background-color: gray;
+  margin: 10px;
+  border-radius: 10px;
+  text-align: left;
+  padding: 10px;
+  color: rgb(0,255,234);
+}
+
+.que{
+  display: flex;
+  font-weight: bold;
+  cursor: pointer;
+  justify-content: left;
+  align-self: center;
+  font-size: 20px;
+}
+
+button{
+  height: 40px;
+  width: 40px;
+  background-color: gray;
+  border: none;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+
+.ans{
+  margin: 15px 0px 5px 50px;
+}
+
+.arrow{
+  transform: rotate(90deg);
+}
+
+
